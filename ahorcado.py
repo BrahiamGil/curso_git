@@ -14,7 +14,7 @@ El juego se gana cuando se complete la palabra
 
 import random
 
-print('Juego del ahorcado')
+print('Bievenido al juego del ahorcado')
 
 print('Elige la dificultad')
 print('1.', 'Facil')
