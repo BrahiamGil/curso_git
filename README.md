@@ -1,2 +1,2 @@
-# juego_ahorcado
-Un juego increible 
+# curso git
+Un curso increible 
